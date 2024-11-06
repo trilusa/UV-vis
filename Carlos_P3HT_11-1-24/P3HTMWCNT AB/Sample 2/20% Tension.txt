@@ -1,0 +1,4 @@
+"20% Tension - RawData"
+"No.","P/V","Wavelength nm.","Abs.","Description"
+1,"Peak",510.00000,1.134109,""
+2,"Valley",316.00000,0.362289,""
